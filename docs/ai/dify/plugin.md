@@ -1,3 +1,7 @@
+[SchemaRAG-dify-plugin](https://github.com/JOTO-AI/SchemaRAG-dify-plugin/blob/main/README_CN.md)
+[dify-database-to-knowledge](https://github.com/majinkai/dify-database-to-knowledge/tree/main#)
+[dat](https://github.com/hexinfo/dat)
+
 ## Model
 
 | ID                                 | Name                               | Description                                                  | Download                                                     |
